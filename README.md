@@ -164,4 +164,4 @@ Management Staff / Management Homies setelah login.
 ![Tampilan 7](image/kerjaan.png)
 
 ### 📄 Tampilan 8
-![Tampilan 8](image/kelola-jb.png)
+![Tampilan 8](image/status.png)
